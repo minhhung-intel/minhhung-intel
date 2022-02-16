@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minhhung-intel
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java & Cloud Computing
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning JavaScript & Java (Android)
+- 💞️ I’m looking to collaborate on a project to gain my experiment
 - 📫 How to reach me: <minh.hung.nguyen@intel.com> or <hungnmfx00878@funix.edu.vn>
 
 <!---
